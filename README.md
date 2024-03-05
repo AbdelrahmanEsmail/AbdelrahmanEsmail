@@ -15,11 +15,6 @@ I'm Abdelrahman Esmail, a passionate software engineering student with a keen in
 - 🖥️ User Interface (UI) and User Experience (UX) design
 - 🚀 Building apps that solve real-world problems and deliver a great user experience
 
-### Language Usage
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanEsmail&layout=compact&theme=radical)
-
-
 ### Technologies
 
 - Swift
@@ -35,6 +30,12 @@ I'm Abdelrahman Esmail, a passionate software engineering student with a keen in
 - 📚 Continuously improving my skills in Swift 
 - 🌟 Contributing to open-source projects
 - 🚀 Building and launching my own iOS apps on the App Store
+
+  
+### Language Usage
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanEsmail&layout=compact&theme=radical)
+
 
 ## Let's Connect!
 
