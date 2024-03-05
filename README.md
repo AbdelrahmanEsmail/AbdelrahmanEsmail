@@ -19,9 +19,6 @@ I'm Abdelrahman Esmail, a passionate software engineering student with a keen in
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanEsmail&layout=compact&theme=radical)
 
-## Recent Activity
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdelrahmanEsmail&show_icons=true&theme=radical)
 
 ### Technologies
 
