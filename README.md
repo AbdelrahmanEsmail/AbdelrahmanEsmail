@@ -1,35 +1,40 @@
 # Hey there! 👋
 
-I'm Abdelrahman Esmail, a passionate software engineering student with a keen interest in iOS Development. Welcome to my GitHub profile!
+I'm Abdelrahman Esmail, a passionate software engineering student with a keen interest in Full Stack Web Development. Welcome to my GitHub profile!
 
 ## About Me
 
 - 🎓 Software Engineering student at Mansoura University
-- 🌱 Currently learning and exploring iOS Development using Swift and SwiftUI & UIKit
+- 🌱 Currently learning and exploring Web Development using React and Django & Python
 - 💡 Always eager to learn new technologies and collaborate on exciting projects
 
 ## My Interests
 
-- 📱 iOS App Development
--  💻 Back-End Development
+- 💻 Front-End Development
+- 💻 Back-End Development
 - 🖥️ User Interface (UI) and User Experience (UX) design
+- 📱 iOS App Development
 - 🚀 Building apps that solve real-world problems and deliver a great user experience
 
 ### Technologies
 
-- Swift
-- C#
 - Python
+- Django
+- HTML
+- CSS 
+- JS
+- Bootstrap
+- React
+- Swift
 - SwiftUI
 - UIKit
-- Django
-- Laravel
+- C#
 
 ## Goals
 
-- 📚 Continuously improving my skills in Swift 
+- 📚 Continuously improving my skills in React 
 - 🌟 Contributing to open-source projects
-- 🚀 Building and launching my own iOS apps on the App Store
+- 🚀 Building and launching my own Web apps on the Internet
 
   
 ### Language Usage
